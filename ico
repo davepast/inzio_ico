@@ -1,0 +1,75 @@
+Array ( [are:Ares_odpovedi] => Array (
+    [are:Odpoved] => Array (
+        [D:PID] => 1
+        [D:VH] => Array (
+            [D:K] => 1
+            )
+            [D:PZA] => 1
+            [D:UVOD] => Array (
+                [D:ND] => Výpis z IS rzp
+                [D:ADB] => 2019-07-30
+                [D:DVY] => 2019-08-01
+                [D:CAS] => 11:43:41
+                [D:TV] => zakladni
+                [D:Typ_odkazu] => 0
+                )
+            [D:Vypis_RZP] => Array (
+                [D:ZAU] => Array (
+                    [D:S] => A
+                    [D:Datum_zmeny] => 2019-05-15
+                    [D:ICO] => 27074358
+                    [D:OF] => Asseco Central Europe, a.s.
+                    [D:PF] => Array (
+                        [D:KPF] => 121
+                        [D:NPF] => Akciová společnost
+                        [D:PFO] => P
+                        [D:T] => právnická osoba tuzemská
+                        )
+                    [D:ZU] => Array (
+                        [D:KZU] => 310004
+                        [D:NZU] => Úřad městské části Praha 4
+                        )
+                    [D:ZI1] => 2004-03-22
+                    [D:Vsech_zivnosti] => 26
+                    [D:Aktivnich_zivnosti] => 5
+                    [D:Aktivnich_provozoven] => ano
+                    )
+                [D:Adresy] => Array (
+                    [D:A] => Array (
+                        [D:IDA] => 38124737
+                        [D:N] => Praha
+                        [D:NCO] => Michle
+                        [D:NU] => Budějovická
+                        [D:CD] => 778
+                        [D:TCD] => 1
+                        [D:CO] => 3
+                        [D:CA] => 3a
+                        [D:PSC] => 14000
+                        )
+                    [D:A_attr] => Array (
+                        [kvadres] => 1
+                        )
+                    )
+                [D:Osoby] => Array (
+                    [D:Osoba] => Array (
+                        [0] => Array (
+                            [D:Role] => S
+                            [D:J] => David
+                            [D:P] => Stoppani
+                            [D:DN] => 1981-08-16
+                            [D:TP] => Ing.
+                            )
+                        [1] => Array (
+                            [D:Role] => S
+                            [D:J] => Marek
+                            [D:P] => Grác
+                            [D:DN] => 1972-01-14
+                            )
+                        [2] => Array (
+                            [D:Role] => S
+                            [D:J] => Josef
+                            [D:P] => Klein
+                            [D:DN] => 1961-10-21
+                            [D:TP] => RNDr.
+                            )
+                        [3] => Array ( [D:Role] => S [D:J] => Michal [D:P] => Polehňa [D:DN] => 1971-07-28 [D:TP] => Ing. ) [4] => Array ( [D:Role] => S [D:J] => BRANISLAV [D:P] => TKÁČIK [D:DN] => 1974-12-21 ) ) ) [D:ZI] => Array ( [D:Z] => Array ( [0] => Array ( [D:S] => A [D:Druh] => L [D:PP] => Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona [D:Obory_cinnosti] => Array ( [D:Obor_cinnosti] => Array ( [0] => Array ( [D:T] => Vydavatelské činnosti, polygrafická výroba, knihařské a kopírovací práce ) [1] => Array ( [D:T] => Zprostředkování obchodu a služeb ) [2] => Array ( [D:T] => Velkoobchod a maloobchod ) [3] => Array ( [D:T] => Skladování, balení zboží, manipulace s nákladem a technické činnosti v dopravě ) [4] => Array ( [D:T] => Zasilatelství a zastupování v celním řízení ) [5] => Array ( [D:T] => Ubytovací služby ) [6] => Array ( [D:T] => Poskytování software, poradenství v oblasti informačních technologií, zpracování dat, hostingové a související činnosti a webové portály ) [7] => Array ( [D:T] => Poradenská a konzultační činnost, zpracování odborných studií a posudků ) [8] => Array ( [D:T] => Příprava a vypracování technických návrhů, grafické a kresličské práce ) [9] => Array ( [D:T] => Projektování elektrických zařízení ) [10] => Array ( [D:T] => Výzkum a vývoj v oblasti přírodních a technických věd nebo společenských věd ) [11] => Array ( [D:T] => Testování, měření, analýzy a kontroly ) [12] => Array ( [D:T] => Reklamní činnost, marketing, mediální zastoupení ) [13] => Array ( [D:T] => Služby v oblasti administrativní správy a služby organizačně hospodářské povahy ) [14] => Array ( [D:T] => Mimoškolní výchova a vzdělávání, pořádání kurzů, školení, včetně lektorské činnosti ) [15] => Array ( [D:T] => Výroba, obchod a služby jinde nezařazené ) ) ) [D:Vznik] => 2004-03-22 ) [1] => Array ( [D:S] => A [D:Druh] => R [D:PP] => Výroba, instalace, opravy elektrických strojů a přístrojů, elektronických a telekomunikačních zařízení [D:Vznik] => 2004-03-22 ) [2] => Array ( [D:S] => A [D:Druh] => V [D:PP] => Činnost účetních poradců, vedení účetnictví, vedení daňové evidence [D:Vznik] => 2004-04-05 ) [3] => Array ( [D:S] => A [D:Druh] => R [D:PP] => Montáž, opravy, revize a zkoušky elektrických zařízení [D:Vznik] => 2004-04-05 ) [4] => Array ( [D:S] => A [D:Druh] => K [D:PP] => Poskytování technických služeb k ochraně majetku a osob [D:Vznik] => 2010-04-12 ) ) ) ) ) ) [are:Ares_odpovedi_attr] => Array ( [xmlns:are] => http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_rzp/v_1.0.5 [xmlns:D] => http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_datatypes/v_1.0.5 [xmlns:U] => http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/uvis_datatypes/v_1.0.3 [odpoved_datum_cas] => 2019-08-01T11:43:42 [odpoved_pocet] => 1 [odpoved_typ] => Vypis_RZP [vystup_format] => XML [xslt] => klient [validation_XSLT] => http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_odpovedi.xsl [xmlns:xsi] => http://www.w3.org/2001/XMLSchema-instance [xsi:schemaLocation] => http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_rzp/v_1.0.5 http://wwwinfo.mfcr.cz/ares/xml_doc/schemas/ares/ares_answer_rzp/v_1.0.5/ares_answer_rzp_v_1.0.5.xsd [Id] => ares ) )
